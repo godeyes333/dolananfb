@@ -62,16 +62,35 @@ def search():
 		
 #welcome 
 def welcome():
-	wel = """
-        +=========================================+
-        |..........   Dolanan Fb.      ...........|
-        +-----------------------------------------+
-        |            #Author: ndeso.net     | 
-        |	       Version 10.2               |
- 	|https://www.youtube.com/c/ndeso.net.|
-        +=========================================+
-        |..........  izin ndisik bos mark  ...........|
-        +-----------------------------------------+\n\n
+	
+	
+	
+                  G O D  E Y E S 
+                  .:/oosyysso+:.
+             .+ydMMMMMMMMMMMMMMMMmy+-             
+         `/yNMMMMMMMMMmhhhhmMMMMMMMMMNy/`         
+       /hMMMMMMMMMNs:`       -sNMMMMMMMMMh/       
+    .sNMMMMMMMMMMs`             oMMMMMMMMMMNs.    
+  -yMMMMMMMMMMMM/       ``       :MMMMMMMMMMMMh-  
+.yMMMMMMMMMMMMMy      +mMMmo      sMMMMMMMMMMMMMh.
+mMMMMMMMMMMMMMM+     `MMMMMM.     /MMMMMMMMMMMMMMN
+.hMMMMMMMMMMMMMy      oNMMNo      sMMMMMMMMMMMMMh-
+  -hMMMMMMMMMMMM:       ``       -MMMMMMMMMMMMh:  
+    .sNMMMMMMMMMMo              +NMMMMMMMMMNs-    
+      `/hMMMMMMMMMNo-        -omMMMMMMMMMd/`      
+         `/hNMMMMMMMMMdhyyhdNMMMMMMMMNh+`         
+             -+ymMMMMMMMMMMMMMMMMmyo-             
+                 `-/+osyyyyso+/-`"
+(T3/Telegram: @not3l3s)
+"""
+        
+        
+        
+       
+ 	
+
+        
+        
 """
 	total = open(passwordlist,"r")
 	total = total.readlines()
