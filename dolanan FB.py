@@ -61,8 +61,7 @@ def search():
 
 		
 #welcome 
-def welcome():
-	
+def print():"""   
 	
 	
                   G O D  E Y E S 
